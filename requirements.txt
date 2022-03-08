@@ -11,7 +11,7 @@ django-rest-auth==0.8.1
 django-serializers==0.6.0
 djangorestframework==3.4.1
 environ==1.0
-httpie==0.9.4
+httpie==3.1.0
 oauthlib==1.0.3
 Pillow==3.3.1
 pi
